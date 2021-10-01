@@ -3,7 +3,7 @@
 
 Purpose of this repo is to code RNN, LSTM and GRU, network using low level tensorflow API's, To get better understanding.
 
-Implementations ar done based on the below equations : 
+Implementations are done based on the below equations : 
 
 LSTM: 
 
